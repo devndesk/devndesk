@@ -1,37 +1,142 @@
- ![68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
- 
-<h1 align="center">Hy! 👋, I'm Ankit Kumar</h1>
-<h3 align="center">**If You Think Math is Hard Try Web Design.**</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devndesk&label=Profile%20views&color=0e75b6&style=flat" alt="devndesk" /> </p>
-<img align="right" width=400 alt="coding-gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-- 🌱 I’m currently learning **Data Structure & Algorithm**
-
-- 💬 Ask me about **Html, CSS, JS, React & Java**
-
-- 📫 How to reach me **beinganxh@gmail.com**
-
-
-<h3 align="left">Socials :</h3>
 <p align="left">
-<a href="https://twitter.com/iankit2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devndesk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devndesk" height="30" width="40" /></a>
-<a href="https://meta.stackexchange.com/users/1422936/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devndesk" height="30" width="40" /></a>
-<a href="https://instagram.com/beinganxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devndesk" height="30" width="40" />
-
-</a>
+  <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![Mastan _page-0001](https://github.com/devndesk/devndesk/blob/236843c39672fcbdfb53fc7518a2101046a5fc82/Untitled%20(13).png)
 
- <hr>
 
- ### 📊 GitHub Stats:
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Ankit Kumar</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devndesk&theme=dark&show_icons=true&locale=en&layout=compact" alt="devndesk" /></p>
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devndesk&theme=dark&show_icons=true&locale=en" alt="devndesk" /></p>
+- 🌱 **Currently building and developing Myself** <br>
+- ⚡ About Me: **Determined** <br>
+- 💎 Value **clarity, ownership, and continuous improvement** <br>
+- 📈 Skills: **Java, MERN, HTML, CSS & JS**
+- 📫 Reach Me At: [devndesk@gmail.com](mailto:devndesk@gmail.com) <br>
+- 📍 **Location:** India <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devndesk&theme=dark&" alt="devndesk" /></p>
+
+<br>
+<br>
+<br>
+
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  </a>
+</div>
+<br>
+
+#### **Bad News:**  
+> No matter how hard you try to protect yourself, one day, you will fail.
+
+####  **Good News:**  
+> When you fail, each passing day,  
+> it opens you up to new possibilities, often helping you emerge as the best version of you.
+
+
+
+<br>
+
+<details><summary>🎖️ Hacktoberfest Badges: </summary>
+  <br>
+<p align="center">
+<img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
+</p>
+
+</details>
+
+
+<details><summary>🚀 Open Source Contributions:</summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+    </tr>
+    <tr>
+      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed to multiple open-source projects.</li>
+          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Vinyasa Summer of Code (VSoC) 24</td>
+      <td>
+        <ul>
+          <li>Role: <strong>Project Admin</strong></li>
+          <li>Managed GitHub repositories, assigned issues, guided contributors, and resolved code conflicts.</li>
+          <li>Successfully handled project administration and contributed to the project's growth and development.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details><summary>🏆 Notable Projects:</summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://mcqgeneratorwebsite.vercel.app/">MCQ Master</a></td>
+      <td>The project follows a Hybrid AI approach. By default, it uses a client-side MCQ generation logic for speed, privacy, and offline support. Additionally, it integrates the Groq Llama 3 (70B) model via API to enable advanced contextual understanding and intelligent question generation. The system also includes a fallback mechanism to ensure reliability in case of API failure.</td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devndesk&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/devndesk?cardType=level&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=devndesk&theme=bear" alt="GitHub Streak" /></a>
+
+</td>
+</tr>
+</table>
+<br>
+
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/heyansh" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+    <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/>
+  </a>
+  <img height="80" src="https://github.com/devndesk/devndesk/blob/236843c39672fcbdfb53fc7518a2101046a5fc82/png-gif-3.gif"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
