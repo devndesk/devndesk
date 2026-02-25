@@ -53,7 +53,7 @@
 <details><summary>🎖️ Hacktoberfest Badges: </summary>
   <br>
 <p align="center">
-<img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
+<img width="800" height="426" alt="image" //src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
 </p>
 
 </details>
