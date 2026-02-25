@@ -40,11 +40,11 @@
 <br>
 
 #### **Bad News:**  
-> No matter how hard you try to protect yourself, one day, you will fail.
+> You can’t avoid the fall; one day, things will go wrong.
 
 ####  **Good News:**  
-> When you fail, each passing day,  
-> it opens you up to new possibilities, often helping you emerge as the best version of you.
+> Every fall is a forced upgrade,  
+> stripping away the old to make room for the best version of you.
 
 
 
