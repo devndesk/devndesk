@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Mastan _page-0001](https://github.com/devndesk/devndesk/blob/236843c39672fcbdfb53fc7518a2101046a5fc82/Untitled%20(13).png)
+![Mastan _page-0001](https://github.com/devndesk/devndesk/blob/0e781e8f6bfb15447e8609b5463a4ebe8dab5111/Untitled%20(14).png)
 
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Ankit Kumar</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
