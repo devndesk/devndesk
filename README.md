@@ -138,5 +138,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://github.com/devndesk/devndesk/blob/main/0d0797ee769c71329b7647ce34cba7f01.jpg" alt="Footer"/>
 </p>
