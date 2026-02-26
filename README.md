@@ -95,7 +95,7 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://mcqgeneratorwebsite.vercel.app/">MCQ Master</a></td>
+      <td><a href="https://mcqgeneratorwebsite.netlify.app/">MCQ Master</a></td>
       <td>The project follows a Hybrid AI approach. By default, it uses a client-side MCQ generation logic for speed, privacy, and offline support. Additionally, it integrates the Groq Llama 3 (70B) model via API to enable advanced contextual understanding and intelligent question generation. The system also includes a fallback mechanism to ensure reliability in case of API failure.</td>
     </tr>
   </table>
